@@ -11,7 +11,7 @@
 * 声卡: ALC255
 
 ## 运行情况
-* macOS版本： 10.15 (catalina)
+* macOS版本： 10.15.3 (catalina)
 * 显卡： 正常
 * 网卡： 正常
 * 声卡： 驱动使用AppleALC.kext, layout-id使用27,并对configdata做了适当修改，目前内置外置切换有些问题
