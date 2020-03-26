@@ -462,6 +462,7 @@
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
+            <string>Recovery</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
@@ -484,7 +485,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>bluemacy</string>
+		<string>random</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>

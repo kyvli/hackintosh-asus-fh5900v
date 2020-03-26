@@ -14,7 +14,7 @@
 * macOS版本： 10.15 (catalina)
 * 显卡： 正常
 * 网卡： 正常
-* 声卡： 驱动使用AppleALC.kext, layout-id使用27，内置喇叭不管用，估计要自己仿冒驱动才能解决了；
+* 声卡： 驱动使用AppleALC.kext, layout-id使用27,并对configdata做了适当修改，目前内置外置切换有些问题
 * 触摸板：正常
 * USB： 正常
 
